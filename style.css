@@ -43,6 +43,7 @@
 			padding:1vw 2vw;
 			border-radius:20px;
 			color:white;
+			margin-bottom:2vw;
 		}
 		#btn:hover{
 			cursor:pointer;
@@ -75,7 +76,7 @@
 				height:30%;
 				width:72%;
 				gap:2vh;
-				margin-bottom:0;
+				margin-bottom:4vh;
 			}
 			.img-cont h1{
 				text-align: center;
